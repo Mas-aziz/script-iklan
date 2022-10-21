@@ -4,7 +4,6 @@ var cat1 = [
   "https://ads-load-rectangle.blogspot.com/2022/06/iklan3.html",
   "https://ads-load-rectangle.blogspot.com/2022/06/iklan4.html",
   "https://ads-load-rectangle.blogspot.com/2022/06/iklan5.html",
-  "https://ads-load-rectangle.blogspot.com/2022/10/ads-video-chanel.html",
 ];
 
 var myFrame = document.getElementsByClassName("frame")[0];
