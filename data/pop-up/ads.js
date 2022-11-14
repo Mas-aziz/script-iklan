@@ -5,10 +5,7 @@ document.write( '<div class='popbox csspop' id='popbox'>
 Klick to close ads
 <div class='popcontent'>
 <script src="https://script-iklan.pages.dev/data/rectangle/banner.js"></script>
-
-</div></div>
-
-</div></div>' );
+</div></div></div></div>' );
 document.write( '<script>
 //<![CDATA[
 setTimeout(function(){
