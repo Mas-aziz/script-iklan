@@ -1,5 +1,5 @@
-var linker = document.write( '<script src="https://script-iklan.pages.dev/data/rectangle/adsload/ads-link.js"></script>' );
-var qwer1 = [linker]
+document.write( '<script src="https://script-iklan.pages.dev/data/rectangle/adsload/ads-link.js"></script>' );
+
 var myFrame = document.getElementsByClassName("frame")[0];
 
 function getRandomUrl(myFrame) {
