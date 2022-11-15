@@ -9,7 +9,7 @@ var cat1 = [
 "https://ads-load-rectangle.blogspot.com/2022/11/rekomendasi.html",
 ];
 
-var myFrame = document.getElementsByClassName("frame","rsp-ol")[0];
+var myFrame = document.getElementsByClassName("frame")[0];
 
 function getRandomUrl(myFrame) {
   var index = Math.floor(Math.random() * cat1.length);
