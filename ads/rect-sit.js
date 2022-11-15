@@ -1,4 +1,4 @@
-var cat1 = [''];
+var cat1 = ['https://script-iklan.pages.dev/ads/rect.php'];
 
 var myFrame = document.getElementsByClassName("frame")[0];
 
