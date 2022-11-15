@@ -7,4 +7,4 @@ var qwer1 = [
 "https://ads-load-rectangle.blogspot.com/p/pasang-iklan.html",
 "https://ads-load-rectangle.blogspot.com/2022/11/nike-ads.html",
 "https://ads-load-rectangle.blogspot.com/2022/11/rekomendasi.html",
-]
+];
