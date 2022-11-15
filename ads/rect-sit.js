@@ -11,8 +11,8 @@ var cat1 = [r];
 var myFrame = document.getElementsByClassName("frame")[0];
 
 function getRandomUrl(myFrame) {
-  var index = Math.floor(Math.random() * cat1.length);
-  var url = cat1[index];
+  var index = Math.floor(Math.random() * n.length);
+  var url = n[index];
   myFrame.src = url;
 }
 
