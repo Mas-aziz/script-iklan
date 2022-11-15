@@ -1,5 +1,4 @@
-var cat1 = [
-document.write( '<script src="https://script-iklan.pages.dev/data/rectangle/adsload/ads-link.js"><script>' )];
+var cat1 = [document.write( '<script src="https://script-iklan.pages.dev/data/rectangle/adsload/ads-link.js"><script>' )];
 
 var myFrame = document.getElementsByClassName("frame")[0];
 
