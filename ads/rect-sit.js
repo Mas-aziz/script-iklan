@@ -1,10 +1,8 @@
-var cat1 = document.write( "https://script-iklan.pages.dev/data/rectangle/adsload/ads-link.js" )[0];
-
 var myFrame = document.getElementsByClassName("frame")[0];
 
 function getRandomUrl(myFrame) {
-  var index = Math.floor(Math.random() * cat1.length);
-  var url = cat1[index];
+  var index = Math.floor(Math.random() * linkr.length);
+  var url = linkr ["https://script-iklan.pages.dev/data/rectangle/adsload/ads-link.js"];
   myFrame.src = url;
 }
 
