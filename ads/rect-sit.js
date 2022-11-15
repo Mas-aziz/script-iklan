@@ -1,4 +1,6 @@
-var cat1 = ['https://script-iklan.pages.dev/ads/rect.php'];
+var cat1 = [
+value=<?="https://script-iklan.pages.dev/ads/rect.php"?>
+];
 
 var myFrame = document.getElementsByClassName("frame")[0];
 
