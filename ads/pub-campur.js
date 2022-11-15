@@ -1,0 +1,1 @@
+document.write( '<center><iframe src="https://ads-load-rectangle.blogspot.com/p/ads-mix546239.html?m=1" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent" scrolling="no"></iframe></center>' );
