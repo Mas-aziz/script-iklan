@@ -1,5 +1,5 @@
 var cat1 = [
-'https://script-iklan.pages.dev/data/rectangle/adsload/ads-link.js'
+(https://script-iklan.pages.dev/data/rectangle/adsload/ads-link.js)
  ];
 
 var myFrame = document.getElementsByClassName("frame")[0];
