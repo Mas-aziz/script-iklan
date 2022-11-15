@@ -1,4 +1,5 @@
-["https://ads-load-rectangle.blogspot.com/2022/06/iklan1.html",
+var qwer1 = [
+"https://ads-load-rectangle.blogspot.com/2022/06/iklan1.html",
 "https://ads-load-rectangle.blogspot.com/2022/06/iklan2.html",
 "https://ads-load-rectangle.blogspot.com/2022/06/iklan3.html",
 "https://ads-load-rectangle.blogspot.com/2022/06/iklan4.html",
