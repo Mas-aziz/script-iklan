@@ -1,4 +1,4 @@
-var cat1 = ['https://ads-load-rectangle.blogspot.com/feeds/posts/default?orderby=published&amp;alt=json-in-script&amp;callback=showrecentposts&amp;max-results=500'];
+var cat1 = [''];
 
 var myFrame = document.getElementsByClassName("frame")[0];
 
