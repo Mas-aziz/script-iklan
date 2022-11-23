@@ -1,1 +1,1 @@
-
+document.write( '<center><iframe class="ads-rectnglr" src="" style="width:300px; height:600px; border:0px; padding:0; overflow:hidden; background-color: transparent" scrolling="no"></iframe></center>' );
