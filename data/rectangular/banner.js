@@ -1,1 +1,1 @@
-document.write( '<center><iframe class="ads-rectnglr" src="" style="width:300px; height:600px; border:0px; padding:0; overflow:hidden; background-color: transparent" scrolling="no"></iframe></center>' );
+document.write( '<center><iframe class="ads-rectnglr" src="https://ads-load-rectangular.blogspot.com/2022/09/iklan5.html" style="width:300px; height:600px; border:0px; padding:0; overflow:hidden; background-color: transparent" scrolling="no"></iframe></center>' );
