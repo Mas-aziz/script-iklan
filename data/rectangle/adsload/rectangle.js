@@ -7,8 +7,8 @@ var cat1 = [
 "https://ads-load-rectangle.blogspot.com/p/pasang-iklan.html",
 "https://ads-load-rectangle.blogspot.com/2022/11/nike-ads.html",
 "https://ads-load-rectangle.blogspot.com/2022/11/rekomendasi.html",
-];
-
+"https://ads-load-rectangle.blogspot.com/2022/11/kumpulan-etalase.html",
+]
 var myFrame = document.getElementsByClassName("frame")[0];
 
 function getRandomUrl(myFrame) {
