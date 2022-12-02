@@ -32,7 +32,7 @@
    #slider ul li h2{
    text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,  rgba(0, 0, 0, 0.23) 0px 6px 6px; margin-left: 130px; margin-top: -180px; 
    }
-#slider ul li .box-deskript{width:auto;height:100px;margin-top: 0px; }
+#slider ul li .box-deskript{width:auto;height:100px;margin-top: 0px; bottom:0px}
    #slider ul li h5{
    text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,  rgba(0, 0, 0, 0.23) 0px 6px 6px; margin-left: 8px; margin-right: 8px; margin-top: 0px; margin-bottom: 8px; 
    }
