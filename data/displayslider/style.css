@@ -30,11 +30,11 @@
   border-radius: 8px; 
 }
    #slider ul li h2{
-   text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,  rgba(0, 0, 0, 0.23) 0px 6px 6px; margin-left: 130px; margin-top: -90px; 
+   text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,  rgba(0, 0, 0, 0.23) 0px 6px 6px; margin-left: 130px; margin-top: -180px; 
    }
-#slider ul li .box-deskript{width:auto;height:auto}
+#slider ul li .box-deskript{width:auto;height:100px;margin-top: 0px; }
    #slider ul li h5{
-   text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,  rgba(0, 0, 0, 0.23) 0px 6px 6px; margin-left: 8px; margin-right: 8px; margin-top: 30px; margin-bottom: 8px; 
+   text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,  rgba(0, 0, 0, 0.23) 0px 6px 6px; margin-left: 8px; margin-right: 8px; margin-top: 0px; margin-bottom: 8px; 
    }
    #slider ul li cta{
      background: black; border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.19) 0px 8px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px; color: #fff; margin-left: 210px; padding: 6px 16px; font-size: 24px; top: 190px; 
