@@ -39,7 +39,7 @@
      background: black; border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.19) 0px 8px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px; color: #fff; margin-left: 210px; padding: 6px 16px; font-size: 24px; 
    }
    #slider ul li cta:hover {
-     background-color: rgba(0, 0, 0, 0) 0 0 0, rgba(0, 0, 0, 0) 0 0 0;
+     background-color:#fff; box-shadow: rgba(0, 0, 0, 0) 0 0 0, rgba(0, 0, 0, 0) 0 0 0;
    }
 #slider #prev, #slider #next {
   width: 50px;
