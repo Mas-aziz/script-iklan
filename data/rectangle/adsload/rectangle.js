@@ -8,6 +8,7 @@ var cat1 = [
 "https://ads-load-rectangle.blogspot.com/2022/11/nike-ads.html",
 "https://ads-load-rectangle.blogspot.com/2022/11/rekomendasi.html",
 "https://ads-load-rectangle.blogspot.com/2022/11/kumpulan-etalase.html",
+"https://ads-load-rectangle.blogspot.com/2023/01/fanspage-resep-only.html",
 ]
 var myFrame = document.getElementsByClassName("frame")[0];
 
