@@ -4,8 +4,8 @@ a{color: white} a:hover{color:#4e7ef5}
 #name {margin-top: 90px; text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px}
 #comp {text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px;margin-top:-8px}
 #compi {text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0,0,0, 0.23) 0px 3px 6px; margin-top:-25px}
-.bottom {(box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;) height: 29px; margin-top: -65px; padding: 8px; width: 264px}
- #subs, #like, #detail {display: inline-block; *display: inline; zoom: 1;}
+.bottom {height: 29px; margin-top: -65px; padding: 8px; width: 264px}
+ #subs, #like, #detail {display: inline-block; *display: inline; zoom: 1;vertucal-align: top}
 
  #subs {background: #4e7ef5; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.19) 0px 8px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px; color: white; width:160px; padding:5px; text-align: center}
   #like{background: black; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.19) 0px 8px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px; color: white; padding: 5px 12px;}
