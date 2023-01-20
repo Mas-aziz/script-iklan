@@ -1,4 +1,4 @@
-a{color: white}
+a{color: white} a:hover{color:#4e7ef5}
 .bg-a {height: 218px; margin-left: -8px; margin-top: -8px; width: 280px;padding:8px;}
 .bg-b {background-attachment: initial; background-clip: initial; background-color: whites; background-image: url('#'); background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial;background:rgba(255, 255, 255, 0.75);(-webkit-backdrop-filter: blur(3px);backdrop-filter: blur(5px));border-radius: 2%;box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px; height: 200px; margin-top: 0px; padding: 8px; width: 264px}
 #name {margin-top: 90px; text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px}
