@@ -5,11 +5,10 @@ a{color: white} a:hover{color:#4e7ef5}
 #comp {text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px;margin-top:-8px}
 #compi {text-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0,0,0, 0.23) 0px 3px 6px; margin-top:-25px}
 .bottom {(box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;) height: 29px; margin-top: -65px; padding: 8px; width: 264px}
-#subs {margin-left: 0px; margin-top: -15px;background: #4e7ef5; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.19) 0px 8px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px; color: white; width:160px; padding:5px; text-align: center}
-   #subs:hover{background:white; color: #4e7ef5; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0)0px 0px 0px}
+  #subs {margin-left: 0px; margin-top: -15px;background: #4e7ef5; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.19) 0px 8px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px; color: white; width:160px; padding:5px; text-align: center}
   #like{background: black; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.19) 0px 8px 20px, rgba(0, 0, 0, 0.23) 0px 3px 6px; color: white; padding: 5px 12px;}
-   #like:hover, #detail:hover{background:white; color:#4e7ef5; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0)0px 0px 0px 0px}
-   #detail{background:black; border-radius:8px; bos-shadow: rgba(0, 0, 0, 0.19) 0px 8px 20px, rgba (0, 0, 0, 0.23) 0px 3px 6px; color: white; padding: 5px 12px;}
+  #detail{background:black; border-radius:8px; bos-shadow: rgba(0, 0, 0, 0.19) 0px 8px 20px, rgba (0, 0, 0, 0.23) 0px 3px 6px; color: white; padding: 5px 12px;}
 .line {margin-left: 174px; margin-top:  -50px}
 #logo {border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px; height: 80px; margin-top: -209px; width: 80px;padding:3px;-webkit-backdrop-filter: blur(3px);backdrop-filter: blur(5px);}
   h1{font-size:28px} h5 {font-size:14px} h3 {font-size:20px}
+  h3:hover{background:white; color:#4e7ef5;box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0)0px 0px 0px}
