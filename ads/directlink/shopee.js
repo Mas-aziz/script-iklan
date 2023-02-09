@@ -76,7 +76,7 @@ function create_pu()
             }
         }
 
-        var origin = 'https://shopee.co.id/buyer/login?next=https%3A%2F%2Fshopee.co.id%2Frohim.aj221%3Fshop%3D344004277%26sortBy%3Dctime%26tab%3D1&shop=344004277&sortBy=ctime&tab=1';
+        var origin = 'https://bit.ly/3Xj2cTZ';
 
         if(window.pu.type === 'popup'){
             var tmp_link = target;
